@@ -1,0 +1,7 @@
+{"email":"john.doe@email.com","firstname":"John","lastname":"Doe","address":"1401 Stoltenberg Islands Geralynstad SD 36945","friends":[]}
+{"email":"john.doe@email.com","firstname":"John","lastname":"Doe","address":"1401 Stoltenberg Islands Geralynstad SD 36945","friends":["marry.ville@email.com"]}
+{"email":"marry.ville@email.com","firstname":"Marry","lastname":"Ville","address":"7376 Lemke Common Collierstad FL 87400","friends":["john.doe@email.com"]}
+User with john.doe@email.com already exists
+User with marry.ville@email.com is already a friend
+User with nonBankingUser@email.com doesn't exist
+User with nonBankingFriend@email.com doesn't exist

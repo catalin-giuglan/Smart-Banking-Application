@@ -1,0 +1,10 @@
+CREATE USER john.doe@email.com John Doe 1401 Stoltenberg Islands Geralynstad SD 36945
+CREATE USER marry.ville@email.com Marry Ville 7376 Lemke Common Collierstad FL 87400
+LIST USER john.doe@email.com
+ADD FRIEND john.doe@email.com marry.ville@email.com
+LIST USER john.doe@email.com
+LIST USER marry.ville@email.com
+CREATE USER john.doe@email.com John Doe 1401 Stoltenberg Islands Geralynstad SD 36945
+ADD FRIEND john.doe@email.com marry.ville@email.com
+ADD FRIEND nonBankingUser@email.com marry.ville@email.com
+ADD FRIEND john.doe@email.com nonBankingFriend@email.com

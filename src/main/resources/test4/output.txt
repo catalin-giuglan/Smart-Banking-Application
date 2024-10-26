@@ -1,0 +1,5 @@
+{"email":"john.doe@email.com","firstname":"John","lastname":"Doe","address":"1401 Stoltenberg Islands Geralynstad SD 36945","friends":[]}
+{"stocks":[],"accounts":[{"currencyName":"EUR","amount":"1500.00"}]}
+{"stocks":[],"accounts":[{"currencyName":"EUR","amount":"500.00"}]}
+Insufficient amount in account EUR for transfer
+You are not allowed to transfer money to bob.stucky@email.com

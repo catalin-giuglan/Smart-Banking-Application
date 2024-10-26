@@ -1,0 +1,14 @@
+CREATE USER john.doe@email.com John Doe 1401 Stoltenberg Islands Geralynstad SD 36945
+CREATE USER marry.ville@email.com Marry Ville 7376 Lemke Common Collierstad FL 87400
+CREATE USER bob.stucky@email.com Bob Stucky 687 Swanson Dr. New York NY 10024
+LIST USER john.doe@email.com
+ADD FRIEND john.doe@email.com marry.ville@email.com
+ADD ACCOUNT john.doe@email.com EUR
+ADD ACCOUNT marry.ville@email.com EUR
+ADD MONEY john.doe@email.com EUR 2000
+TRANSFER MONEY john.doe@email.com marry.ville@email.com EUR 500
+LIST PORTFOLIO john.doe@email.com
+LIST PORTFOLIO marry.ville@email.com
+TRANSFER MONEY marry.ville@email.com john.doe@email.com EUR 600
+TRANSFER MONEY john.doe@email.com bob.stucky@email.com EUR 500
+

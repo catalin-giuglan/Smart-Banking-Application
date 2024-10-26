@@ -1,0 +1,5 @@
+{"email":"john.doe@email.com","firstname":"John","lastname":"Doe","address":"1401 Stoltenberg Islands Geralynstad SD 36945","friends":[]}
+{"stocks":[],"accounts":[{"currencyName":"USD","amount":"10000.00"}]}
+{"stocks":[{"stockName":"AMZN","amount":10},{"stockName":"KO","amount":100}],"accounts":[{"currencyName":"USD","amount":"2487.90"}]}
+Insufficient amount in account for buying stock
+{"stocks":[{"stockName":"AMZN","amount":10},{"stockName":"KO","amount":100}],"accounts":[{"currencyName":"USD","amount":"2487.90"}]}

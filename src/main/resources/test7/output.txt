@@ -1,0 +1,3 @@
+{"email":"john.doe@email.com","firstname":"John","lastname":"Doe","address":"1401 Stoltenberg Islands Geralynstad SD 36945","friends":[]}
+{"stocksToBuy":["MSFT","NFLX","META","GOOGL","GOOG","NVDA","AMZN"]}
+{"stocks":[{"stockName":"AMZN","amount":10},{"stockName":"INTC","amount":100}],"accounts":[{"currencyName":"USD","amount":"3684.20"}]}

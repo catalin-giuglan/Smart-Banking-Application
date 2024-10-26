@@ -1,0 +1,4 @@
+{"stocks":[],"accounts":[{"currencyName":"USD","amount":"1000.00"},{"currencyName":"EUR","amount":"0.00"}]}
+{"stocks":[],"accounts":[{"currencyName":"USD","amount":"841.00"},{"currencyName":"EUR","amount":"100.00"}]}
+Insufficient amount in account USD for exchange
+{"stocks":[],"accounts":[{"currencyName":"USD","amount":"841.00"},{"currencyName":"EUR","amount":"100.00"}]}

@@ -1,0 +1,4 @@
+{"email":"john.doe@email.com","firstname":"John","lastname":"Doe","address":"1401 Stoltenberg Islands Geralynstad SD 36945","friends":[]}
+{"stocks":[],"accounts":[{"currencyName":"USD","amount":"10000.00"}]}
+{"stocksToBuy":["KO","JPM","AMZN"]}
+{"stocks":[{"stockName":"TSLA","amount":10}],"accounts":[{"currencyName":"USD","amount":"7733.10"}]}
