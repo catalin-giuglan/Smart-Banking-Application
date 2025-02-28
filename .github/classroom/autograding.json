@@ -1,0 +1,94 @@
+{
+  "tests": [
+    {
+      "name": "Test0",
+      "setup": "",
+      "run": "gradle test --tests TestEBankingApp.testTheTest",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 0
+    },
+    {
+      "name": "Test1",
+      "setup": "",
+      "run": "gradle test --tests TestEBankingApp.test1",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Test2",
+      "setup": "",
+      "run": "gradle test --tests TestEBankingApp.test2",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Test 3",
+      "setup": "",
+      "run": "gradle test --tests TestEBankingApp.test3",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Test4",
+      "setup": "",
+      "run": "gradle test --tests TestEBankingApp.test4",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Test5",
+      "setup": "",
+      "run": "gradle test --tests TestEBankingApp.test5",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Test6",
+      "setup": "",
+      "run": "gradle test --tests TestEBankingApp.test6",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Test7",
+      "setup": "",
+      "run": "gradle test --tests TestEBankingApp.test7",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Test8",
+      "setup": "",
+      "run": "gradle test --tests TestEBankingApp.test8",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 5
+    }
+  ]
+}
